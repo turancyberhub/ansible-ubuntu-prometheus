@@ -1,0 +1,11 @@
+# General System Files
+.bash_logout
+.bashrc
+.profile
+.cache/
+.ssh/
+.sudo_as_admin_successful
+
+# Specific files to ignore
+# Add any other files or patterns you don't want to commit
+

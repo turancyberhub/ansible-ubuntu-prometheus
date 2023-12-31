@@ -1,0 +1,7 @@
+---
+- name: Deploy Prometheus to Ubuntu Servers
+  hosts: localhost
+  become: true
+  roles:
+    - prometheus
+
